@@ -1,0 +1,8 @@
+E:\GitLocalRepostry\EppluseApp\EppluseSimpleApp\EppluseSimpleApp\bin\Debug\EppluseSimpleApp.exe
+E:\GitLocalRepostry\EppluseApp\EppluseSimpleApp\EppluseSimpleApp\bin\Debug\EppluseSimpleApp.pdb
+E:\GitLocalRepostry\EppluseApp\EppluseSimpleApp\EppluseSimpleApp\bin\Debug\EPPlus.dll
+E:\GitLocalRepostry\EppluseApp\EppluseSimpleApp\EppluseSimpleApp\bin\Debug\EPPlus.pdb
+E:\GitLocalRepostry\EppluseApp\EppluseSimpleApp\EppluseSimpleApp\bin\Debug\EPPlus.xml
+E:\GitLocalRepostry\EppluseApp\EppluseSimpleApp\EppluseSimpleApp\obj\Debug\EppluseSimpleApp.csprojResolveAssemblyReference.cache
+E:\GitLocalRepostry\EppluseApp\EppluseSimpleApp\EppluseSimpleApp\obj\Debug\EppluseSimpleApp.exe
+E:\GitLocalRepostry\EppluseApp\EppluseSimpleApp\EppluseSimpleApp\obj\Debug\EppluseSimpleApp.pdb
